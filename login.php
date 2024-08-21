@@ -9,7 +9,7 @@
     <body>
         <div class="wrapper">
             <section class="form login">
-                <header>RealTime chat app</header>
+                <header>Welcome to Nexus</header>
                 <form action="#">
                     <div class="error-txt">
                         This is an error message!

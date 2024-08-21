@@ -10,7 +10,7 @@
 <body>
     <div class="wrapper">
         <section class="form signup">
-            <header>RealTime chat app</header>
+            <header>Become a Member of Nexus</header>
             <form action="#" enctype = "multipart/form-data">
                 <div class="error-txt">
                     This is an error message!
